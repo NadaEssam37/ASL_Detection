@@ -1,5 +1,6 @@
 # ASL_Detection
 Knowledge base
+American Sign  Languages
 The implemented ASL detection system functions through Python programming and deep learning methods in its knowledge base. The system functions to detect hand gestures from ASL then generate corresponding linguistic output. The algorithm receives training through hand gesture images which contain American Sign Language alphabets. Users can construct educational tools and accessibility applications for hard of hearing people when using this technology. Users can also design gesture-controlled interfaces with it.
 
 Features:
